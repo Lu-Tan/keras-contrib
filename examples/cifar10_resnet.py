@@ -1,4 +1,5 @@
 """
+Code for ResNet-18
 Adapted from keras example cifar10_cnn.py and github.com/raghakot/keras-resnet
 Train ResNet-18 on the CIFAR10 small images dataset.
 
